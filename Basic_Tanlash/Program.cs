@@ -6,7 +6,7 @@ class Program
   {
     // task 1
 
-    /*Console.Write("Type something you like: ");
+    Console.Write("Type something you like: ");
     string word = Console.ReadLine();
     Console.Write("Type number:  ");
     int number = Convert.ToInt32(Console.ReadLine());
@@ -39,7 +39,7 @@ class Program
           : $"{x} and {y} are not comparable";
 
     Console.WriteLine(result);
-     */
+
     // task 3
     Console.Write("Type the number of the day of the week: ");
     string days = Console.ReadLine();
