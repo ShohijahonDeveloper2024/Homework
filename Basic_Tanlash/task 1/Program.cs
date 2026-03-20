@@ -85,6 +85,8 @@ class Program
     };
     Console.WriteLine(day);
 
+    // task 4
+
     Console.Write("Type the number of the month which you like: ");
     string months = Console.ReadLine();
     string month = "";
